@@ -1,0 +1,39 @@
+.logo{
+  height: 150px;
+  padding: 1%;
+}
+
+#Cabecera-inicial{
+  height: 150px;
+}
+
+.buscador{
+    height: 125px;
+    padding: 2%;
+}
+
+.redessociales{
+  margin-left: 1%;
+  margin-top: 1%;
+}
+
+.redessociales  img{
+  width: 25%;
+  border-radius: 15px;
+
+}
+#menu-var{
+      border-radius: 10px;
+      border-style: solid;
+}
+#principal{
+      height: 500px;
+}
+
+.vacio{
+    height: 50%;
+}
+
+#PersonalidadMusical img{
+  width: 100%;
+}
